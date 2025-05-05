@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+欢迎来到EduLink教程！
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**EduLink** 是上海市育才初级中学2025科技节作品之一。
+由 肖梓航 和 孙轲俊 制作。肖梓航 负责本文档的编写。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+查看 :doc:`EduLink配置教程` 以将 Github 上的 EduLink 项目
+配置到 行空板
 
 .. note::
 
-   This project is under active development.
-
-Contents
---------
+   本文档有一定的技术含量，请仔细阅读说明
+   如果仍然读不明白，您可以访问 `视频教程<about:blank>`
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :titlesonly:
 
-   usage
-   api
+   edulink/index
+   classages/index
