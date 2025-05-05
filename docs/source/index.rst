@@ -5,7 +5,7 @@
 
 由 肖梓航 和 孙轲俊 制作。肖梓航 负责本文档的编写。
 
-查看 :doc:`EduLink配置教程` 以将 Github 上的 EduLink 项目
+查看 :doc:`EduLink 配置教程<edulink/index>` 以将 Github 上的 EduLink 项目
 配置到 行空板
 
 .. note::
