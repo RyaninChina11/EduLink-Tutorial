@@ -4,4 +4,8 @@
 班讯 使用教程
 ==========
 
-尽情期待
+.. toctree::
+   :maxdepth: 2
+
+   install
+   use
