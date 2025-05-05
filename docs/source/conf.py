@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'EduLink 教程'
+copyright = '2025, 肖梓航&孙轲俊'
+author = '肖梓航'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +20,8 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'EduLink': ('https://edulink.ryanincn11.top/', None),
+    '班讯': ('https://classages.edulink.ryanincn11.top/', None),
 }
 intersphinx_disabled_domains = ['std']
 
