@@ -31,6 +31,6 @@ templates_path = ['_templates']
 
 html_theme = "furo"
 html_title = f"EduLink教程"
-html_logo = "images/icon.png"
+html_logo = "icon.png"
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
