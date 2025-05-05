@@ -4,4 +4,9 @@
 EduLink 配置教程
 ==========
 
-尽情期待
+.. toctree::
+   :maxdepth: 2
+
+   basic
+   clone
+   run
