@@ -7,11 +7,9 @@
 
 我们 **不支持iPhone手机**
 
-视频教程：
-
 .. raw:: html
 
-    <video controls="" autoplay="" name="media" width="540px" height="1114px"><source src="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4" type="video/mp4"></video>
+    <br><a href="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4">视频教程</a>
 
 电脑端安装
 ==========
