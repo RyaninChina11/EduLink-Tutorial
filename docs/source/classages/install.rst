@@ -11,7 +11,7 @@
 
 .. raw:: html
 
-    <iframe width="1080px" height="2228px" src="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4"></iframe>
+    <video controls="" autoplay="" name="media"><source src="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4" type="video/mp4"></video>
 
 电脑端安装
 ==========
