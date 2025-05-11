@@ -11,7 +11,7 @@
 
 .. raw:: html
 
-    <video controls="" autoplay="" name="media" width="540px" height="1114px"><source src="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4" type="video/mp4"></video>
+    <video controls="" autoplay="" name="media" width="270px" height="557px"><source src="https://holcc-cdn.haier.net/lemc/aliyun1/20250508/5b7c1913753044ffb22a7eaf123f803f.mp4" type="video/mp4"></video>
 
 电脑端安装
 ==========
