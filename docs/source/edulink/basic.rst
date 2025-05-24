@@ -17,11 +17,13 @@
    :align: left
    :alt: 将 行空板 插入电脑
 
+
 看到 **语言选择页面** 后，使用 **行空板一侧的 A键 和 B键** 选择任意语言以继续。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831be3257725.png
     :align: left
     :alt: 行空板语言选择页面及 A键 B键 位置
+
 
 本教程将使用中文作为示例。
 
@@ -31,11 +33,13 @@
     :align: left
     :alt: 行空板待机页面及 Home键 位置
 
+
 长按 **Home 键** 后，即可进入 **板载Home菜单** 的 **主菜单**。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c351d1083.png
     :align: left
     :alt: 行空板待机页面及 Home键 位置
+
 
 使用 **A键 和 B键** 选中 **3-应用开关** 后按 **Home键** 进入。
 
@@ -43,17 +47,20 @@
     :align: left
     :alt: 行空板 应用开关 菜单
 
+
 使用 **A键 和 B键** 选中 **Jupyter服务：已禁用** 后按 **Home键** 调为 **启用中** ，再等待大约5~10秒，变为 **已启用**。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c67a43dd2.png
     :align: left
     :alt: 启用 Jupyter服务
 
+
 使用 **A键 和 B键** 选中 **程序开机自启：已禁用** 后按 **Home键** 调为 **已启用** 。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c6ff93e78.png
     :align: left
     :alt: 启用 程序开机自启
+
 
 使用 **A键 和 B键** 选中 **退出** 后按 **Home键** 返回 **主菜单** 。
 
@@ -63,10 +70,12 @@
     :align: left
     :alt: 行空板本地Web主页
 
+
 单击 **网络设置** 后按下图操作操作以 *连接WiFi*。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif
     :align: left
     :alt: WiFi连接 动图
+
 
 恭喜！您已完成了 **基本设置**，接下来该 :doc:`安装<edulink/index>` 了。
