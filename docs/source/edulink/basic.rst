@@ -31,7 +31,7 @@
     :align: left
     :alt: 行空板待机页面及 Home键 位置
 
-长按 **Home 键** 后，即可进入 **板载Home菜单**的 **主菜单**。
+长按 **Home 键** 后，即可进入 **板载Home菜单** 的 **主菜单**。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c351d1083.png
     :align: left
