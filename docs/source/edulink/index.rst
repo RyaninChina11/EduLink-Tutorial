@@ -8,5 +8,5 @@ EduLink 配置教程
    :maxdepth: 2
 
    basic
-   clone
+   install
    run
