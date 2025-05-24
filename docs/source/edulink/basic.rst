@@ -67,16 +67,14 @@
 
 电脑打开 **任意浏览器（如Chrome，Edge等）** ，输入网址 `10.1.2.3 <10.1.2.3>`_ ,进入 **行空板本地Web主页**
 
-.. image:: https://img.dfrobot.com.cn/wiki/none/32d27b4fa89f58ae415fff95e05fe8d5.png
+.. image:: https://img.picui.cn/free/2025/05/25/6832533d16c10.png
     :align: center
     :alt: 行空板本地Web主页
 
 
 单击 **网络设置** 后按下图操作操作以 *连接WiFi*。
 
-下图太小？ `点我 <https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif>`_ 以查看原图。
-
-.. image:: https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif
+.. image:: https://img.picui.cn/free/2025/05/25/683255c9f39a2.gif
     :align: center
     :alt: WiFi连接 动图
 
