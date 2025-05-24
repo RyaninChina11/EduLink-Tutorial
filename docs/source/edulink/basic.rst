@@ -37,33 +37,34 @@
     :align: left
     :alt: 行空板待机页面及 Home键 位置
 
-使用 **A键 和 B键**选中 **3-应用开关** 后按 **Home键** 进入。
+使用 **A键 和 B键** 选中 **3-应用开关** 后按 **Home键** 进入。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c4e61e05b.png
     :align: left
     :alt: 行空板 应用开关 菜单
 
-使用 **A键 和 B键**选中 **Jupyter服务：已禁用** 后按 **Home键** 调为 **启用中** ，再等待大约5~10秒，变为 **已启用**。
+使用 **A键 和 B键** 选中 **Jupyter服务：已禁用** 后按 **Home键** 调为 **启用中** ，再等待大约5~10秒，变为 **已启用**。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c67a43dd2.png
     :align: left
     :alt: 启用 Jupyter服务
 
-使用 **A键 和 B键**选中 **程序开机自启：已禁用** 后按 **Home键** 调为 **已启用** 。
+使用 **A键 和 B键** 选中 **程序开机自启：已禁用** 后按 **Home键** 调为 **已启用** 。
 
 .. image:: https://img.picui.cn/free/2025/05/24/6831c6ff93e78.png
     :align: left
     :alt: 启用 程序开机自启
 
-使用 **A键 和 B键**选中 **退出** 后按 **Home键** 返回 **主菜单** 。
+使用 **A键 和 B键** 选中 **退出** 后按 **Home键** 返回 **主菜单** 。
 
-电脑打开 **任意浏览器（如Chrome，Edge等）**，输入网址 `10.1.2.3 <10.1.2.3>`_ ,进入 **行空板本地Web主页**
+电脑打开 **任意浏览器（如Chrome，Edge等）** ，输入网址 `10.1.2.3 <10.1.2.3>`_ ,进入 **行空板本地Web主页**
 
 .. image:: https://img.dfrobot.com.cn/wiki/none/32d27b4fa89f58ae415fff95e05fe8d5.png
     :align: left
     :alt: 行空板本地Web主页
 
 单击 **网络设置** 后按下图操作操作以 *连接WiFi*。
+
 .. image:: https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif
     :align: left
     :alt: WiFi连接 动图
