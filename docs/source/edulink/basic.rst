@@ -73,6 +73,8 @@
 
 单击 **网络设置** 后按下图操作操作以 *连接WiFi*。
 
+下图太小？ `点我 <https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif>`_ 以查看原图。
+
 .. image:: https://img.picui.cn/free/2025/05/24/6831d1a2e0904.gif
     :align: center
     :alt: WiFi连接 动图
