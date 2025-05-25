@@ -113,17 +113,11 @@
     .. code-block:: sh
 
         ┌────── Sound Card ───────┐
-
         │-  (default)             │
-
         │0  Loopback              │
-
         │1  rockchip,rk3308-acodec│
-
         │2  这个名字可能不一样      │
-
         │   enter device name...  │
-
         └─────────────────────────┘ 
 
     按 方向键（↑和↓）以选择2（这个名字可能不一样）后按回车
