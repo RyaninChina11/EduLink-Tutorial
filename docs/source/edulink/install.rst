@@ -36,7 +36,7 @@
 
    git --version
 
-.. ::note::
+.. note::
 
     在 终端页面 中，粘贴文本需使用 Ctrl+Shift+V (Windows) 。
 
