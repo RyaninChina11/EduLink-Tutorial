@@ -2,8 +2,7 @@
 安装 EduLink
 =========
 
-使用 **Git** 以安装 EduLink
-=========
+本文档将使用 **Git** 以安装 EduLink
 
 .. admonition:: 阅读本文档前
 
