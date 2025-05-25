@@ -1,7 +1,7 @@
-.. _EduLink 配置教程:
+.. _EduLink 安装配置教程:
 
 ==========
-EduLink 配置教程
+EduLink 安装配置教程
 ==========
 
 .. toctree::
