@@ -36,6 +36,12 @@
 
    git --version
 
+.. ::note::
+
+    在 终端页面 中，粘贴文本需使用 Ctrl+Shift+V (Windows) 。
+
+    其他操作系统浏览器的粘贴方式还未经测试。
+
 应返回Git 版本号，例如：
 
 .. code-block:: sh
