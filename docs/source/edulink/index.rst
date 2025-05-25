@@ -9,4 +9,4 @@ EduLink 配置教程
 
    basic
    install
-   run
+   set
