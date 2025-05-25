@@ -11,7 +11,7 @@
     我们可能使用了 **涉嫌版权** 的图片。
     如果有图片 **涉嫌侵权** ，我们会尽早替换。
 
-电脑打开 **任意浏览器（如Chrome、Edge等）**，打开本文档后， `点我进入 百度智能云登录 网页<https://login.bce.baidu.com/?redirect=https%3A%2F%2Fconsole.bce.baidu.com%2Fai-engine%2Fold%2F#/ai/speech/app/list>`_ 。
+电脑打开 **任意浏览器（如Chrome、Edge等）**，打开本文档后， `点我进入 百度智能云登录 网页 <https://login.bce.baidu.com/?redirect=https%3A%2F%2Fconsole.bce.baidu.com%2Fai-engine%2Fold%2F#/ai/speech/app/list>`_ 。
 
 .. image:: https://img.picui.cn/free/2025/05/25/683306c01d2f5.png
     :align: center
@@ -85,7 +85,7 @@
 
 **不要关闭此标签页，备用**
 
-`点我 进入 高德开放平台登录 网页<https://lbs.amap.com/?ref=https://console.amap.com/dev/index>`_
+`点我 进入 高德开放平台登录 网页 <https://lbs.amap.com/?ref=https://console.amap.com/dev/index>`_
 
 登录后，单击 **创建新应用**
 
