@@ -42,6 +42,12 @@
 
     git version 2.20.1
 
+.. note::
+
+    在 终端页面 中，粘贴文本需使用 Ctrl+Shift+V (Windows) 。
+
+    其他操作系统浏览器的粘贴方式还未经测试。
+
 .. admonition:: 版本号不一样？
 
     没关系，本文档仅需使用 ``git init`` 和 ``git clone`` 命令，
@@ -104,14 +110,20 @@
 
     按下 `F6` ，显示以下内容：
 
-    ..code-block:: sh
+    .. code-block:: sh
 
         ┌────── Sound Card ───────┐
+
         │-  (default)             │
+
         │0  Loopback              │
+
         │1  rockchip,rk3308-acodec│
+
         │2  这个名字可能不一样      │
+
         │   enter device name...  │
+
         └─────────────────────────┘ 
 
     按 方向键（↑和↓）以选择2（这个名字可能不一样）后按回车
