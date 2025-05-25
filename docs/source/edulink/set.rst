@@ -73,7 +73,7 @@
     :align: center
     :alt: 应用详情 页面 及 API Key 和 Secret Key 显示位置
 
-在 浏览器地址栏 输入 `10.1.2.3:8888/edit/EduLink/config.ini<http://10.1.2.3:8888/edit/EduLink/config.ini>`_ ，进入 **配置文件编辑页面** 。
+在 浏览器地址栏 输入 `10.1.2.3:8888/edit/EduLink/config.ini <http://10.1.2.3:8888/edit/EduLink/config.ini>`_ ，进入 **配置文件编辑页面** 。
 
 在 **下图红框所标注的位置** 分别填入 **API Key** 和 **Secret Key** ：
 
@@ -125,13 +125,13 @@
     :align: center
     :alt: 高德 添加Key 示范样例 及 提交 按钮位置
 
-之后再下图红框范围内复制 **Key** ：
+之后在下图红框范围内复制 **Key** ：
 
 .. image:: https://img.picui.cn/free/2025/05/25/68331a8321812.png
     :align: center
     :alt: Key 位置
 
-回到 `配置文件编辑页面<http://10.1.2.3:8888/edit/EduLink/config.ini>`_ 。
+回到 `配置文件编辑页面 <http://10.1.2.3:8888/edit/EduLink/config.ini>`_ 。
 
 这次将 **下图红框所标注的位置** 填入您刚刚复制的内容。
 
@@ -161,7 +161,7 @@
 
     这是一个公开的设备，仅用于测试，因此可能无法正常使用。
 
-    如果您真的要使用，请 `联系我们<mailto:18149721348@163.com>` ，我们将会为您新建一个设备。
+    如果您真的要使用，请 `联系我们 <mailto:18149721348@163.com>` ，我们将会为您新建一个设备。
 
 **键盘按下 Ctrl+S 保存**
 
@@ -189,4 +189,4 @@
 
 恭喜！您完成了 EduLink 安装配置教程 的所有章节！
 
-现在是时候看看 :doc:`如何安装并使用 班讯<../classages/index>` 来向 EduLink 发送消息了。
+现在是时候看看 :doc:`如何安装并使用 班讯 <../classages/index>` 来向 EduLink 发送消息了。
