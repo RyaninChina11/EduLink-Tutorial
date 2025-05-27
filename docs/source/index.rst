@@ -21,3 +21,4 @@
 
    edulink/index
    classages/index
+   thank-you
