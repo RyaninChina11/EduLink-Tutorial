@@ -3,6 +3,10 @@
 
 我们在完成 EduLink 时用到了以下的 企业/团体 的产品，在此作统一感谢（字母排序）。
 
+`Amap.com <https://www.amap.com/>`_
+
+`Baidu.com <https://www.baidu.com/>`_
+
 `Beeware.org <https://beeware.org/>`_
 
 `Debian.org <https://www.debian.org/>`_
