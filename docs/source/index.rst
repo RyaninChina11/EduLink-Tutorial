@@ -12,8 +12,6 @@
 
    本文档仅负责技术，组装外壳不在本文档范畴内。
 
-   如果读不明白，您可以访问 `视频教程 <about:blank>`_
-
 .. toctree::
    :maxdepth: 2
    :hidden:
